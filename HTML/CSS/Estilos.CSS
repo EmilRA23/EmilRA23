@@ -1,0 +1,30 @@
+body {
+    background-color: darkgray;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #012840;
+    font-size: 32px;
+}  
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+}
+.Profession {
+    color: #A6A6A6;
+}
+p, span, div, li, a, td, th {
+    color: #D9D9D9;
+}
+img {
+    border-radius: 50%;
+    float: left;
+    }
+    .sobre-mi {
+        text-align: center;
+        border-bottom: 1px solid #D9D9D9;
+    }
+
+    .Portafolio {
+        clear: both;
+        text-align: center;
+        margin-top: 20px;
+    }
